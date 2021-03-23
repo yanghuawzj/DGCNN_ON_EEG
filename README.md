@@ -1,0 +1,2 @@
+# DGCNN_ON_EEG
+APPLY DGCNN MODEL TO SEED.etl database
